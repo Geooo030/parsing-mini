@@ -37,7 +37,7 @@ function requestGetApi(url, params, sourceObj, successFun, failFun) {
             success: res => {
                 console.log(res.code)
                 wx.request({
-                    url: "http://127.0.0.1:10521/api/wx/auth",//更改为你自己的服务端地址
+                    url: "http://geooo-wxserver.top:10521/api/wx/auth",//更改为你自己的服务端地址
                     method: "POST",
                     data: {
                         js_code: res.code

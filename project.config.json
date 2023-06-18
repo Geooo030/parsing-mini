@@ -1,7 +1,8 @@
 {
   "description": "项目配置文件",
   "packOptions": {
-    "ignore": []
+    "ignore": [],
+    "include": []
   },
   "setting": {
     "urlCheck": false,
@@ -36,21 +37,13 @@
     "userConfirmedBundleSwitch": false,
     "packNpmManually": false,
     "packNpmRelationList": [],
-    "minifyWXSS": true
+    "minifyWXSS": true,
+    "condition": false
   },
   "compileType": "miniprogram",
   "libVersion": "2.17.3",
-  "appid": "wx53df3e44b7ec396d",
+  "appid": "wx74559f2e91870c33",
   "projectname": "video-parsing",
-  "debugOptions": {
-    "hidedInDevtools": []
-  },
-  "scripts": {},
-  "staticServerOptions": {
-    "baseURL": "",
-    "servePath": ""
-  },
-  "isGameTourist": false,
   "condition": {
     "search": {
       "list": []
@@ -70,5 +63,9 @@
     "miniprogram": {
       "list": []
     }
+  },
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
   }
 }

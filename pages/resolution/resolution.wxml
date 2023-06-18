@@ -44,15 +44,7 @@
       </view>
     </view>
 
-  <!-- <view class="cu-item">
-    <view class="content">
-      <text class="cuIcon-edit text-green"></text>
-      <text class="text-grey">{{videoTitle?videoTitle:"视频标题"}}</text>
-    </view>
-    <view class="action">
-      <text class="text-grey text-sm">{{videoUrl?videoUrl:"复制分享链接后自动抓取"}}</text>
-    </view>
-  </view> -->
+
 
   <view class="cu-item">
     <view class="content">
@@ -134,14 +126,14 @@
 </view>
 
 <view class="grid col-2" style="margin: -4px 15px 0px">
-  <view class="bg-img padding-bottom-xl" style="background-image: url('https://oss.xtyu.top/blog-image/WechatIMG319_1626919165683.png');height: 700rpx; margin: 0px 3px 0px;width: 49%;">
+  <view class="bg-img padding-bottom-xl" style="background-image: url('https://img-blog.csdnimg.cn/11a18358faee4884ad6d0f63036ac478.png');height: 700rpx; margin: 0px 3px 0px;width: 55%;">
     <view class="bg-shadeTop padding padding-bottom-xl">
-      进入短视频平台复制分享链接
+      第一步
     </view>
   </view>
-  <view class="bg-img padding-bottom-xl" style="background-image: url('https://oss.xtyu.top/blog-image/WechatIMG320_1626919195802.jpeg');height: 700rpx;width: 49%;">
+  <view class="bg-img padding-bottom-xl" style="background-image: url('https://img-blog.csdnimg.cn/5235f60a88894fa4bdc4f5c770001a7e.png');height: 700rpx;width: 40%;">
     <view class="bg-shadeTop padding padding-bottom-xl">
-      粘贴短视频平台复制好的链接到本小程序，点击一键去除视频水印按钮
+      复制粘贴后，点击《一键去除视频水印》按钮
     </view>
   </view>
 </view>

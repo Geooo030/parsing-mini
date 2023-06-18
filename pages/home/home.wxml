@@ -1,11 +1,11 @@
 <!-- <scroll-view scroll-y class="scrollPage"> -->
   <view class="UCenter-bg">
-    <image src="/images/logo.png" class="png" mode="widthFix"></image>
-    <view class="text-xl">视频解析工具箱
-      <text class="text-df">v1.0</text>
+    <!-- <image src="/images/logo.png" class="png" mode="widthFix"></image> -->
+    <view class="text-xl">短视频去水印
+      
     </view>
     <view class="margin-top-sm">
-      <text>By:小熊</text>
+      <text>By:Geooo</text>
     </view>
     <image src="" mode="scaleToFill" class="gif-wave"></image>
 
@@ -58,12 +58,12 @@
     </view>
 
     <!--希望你使用该项目时能保留该项，尊重一下作者的劳动成果-->
-    <view class="cu-item arrow">
+    <!-- <view class="cu-item arrow">
       <view class="content" bindtap="CopyLink" data-link="https://github.com/xtanyu/parsing-mini">
         <text class="cuIcon-github text-grey"></text>
         <text class="text-grey">GitHub</text>
       </view>
-    </view>
+    </view> -->
     
   </view>
   <view class="cu-tabbar-height"></view>

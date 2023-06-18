@@ -63,8 +63,8 @@ Component({
     },
     showQrcode() {
       wx.previewImage({
-        urls: ['https://oss.xtyu.top/blog-image/WechatIMG249_1623919690786.jpeg'],
-        current: 'https://oss.xtyu.top/blog-image/WechatIMG249_1623919690786.jpeg' // 当前显示图片的http链接      
+        urls: ['https://pic2.zhimg.com/v2-ec6c125e7bf9c983aaf266bf1079b6fd_r.jpg'],
+        current: 'https://pic2.zhimg.com/v2-ec6c125e7bf9c983aaf266bf1079b6fd_r.jpg' // 当前显示图片的http链接      
       })
     },
     sign() {

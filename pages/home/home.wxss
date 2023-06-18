@@ -1,10 +1,10 @@
 .UCenter-bg {
-  background-image: url(https://oss.xtyu.top/blog-image/wallhaven-x8zq2z_1080x700_1623744317476.png);
+  background-image: url(https://img.zcool.cn/community/0154805ad32290a801204029d7c385.jpg@1280w_1l_2o_100sh.jpg);
   background-size: cover;
   height: 550rpx;
   display: flex;
   justify-content: center;
-  padding-top: 40rpx;
+  padding-top: 400rpx;
   overflow: hidden;
   position: relative;
   flex-direction: column;
